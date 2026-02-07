@@ -1,0 +1,47 @@
+
+header{
+    color: black;
+    font-weight: lighter;
+    font-size: 45PX;
+    font-family: sans-serif;
+    background-color: #f6ece3;
+    padding: 10px;
+
+}
+h2{
+    font-weight: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    color: black;
+}
+
+body
+{
+    color: rgb(253, 253, 253);
+    
+}
+
+form
+{
+    background-color: #f6ece3;
+    width: 600px;
+    height: 500px;
+   color: black;
+    border-radius: 5%;
+    padding: 1px;
+    text-align: center;
+}
+.sign 
+{
+  
+   text-align: center;
+font-size: 30px;
+
+}
+
+footer{
+    text-align: center;
+    background-color: #f6ece3;
+    padding: 10px;
+    color: black;
+}

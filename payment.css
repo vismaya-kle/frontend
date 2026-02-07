@@ -1,0 +1,68 @@
+header
+{
+    background-color: #f6ece3;
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
+.image1 {
+    font-size: 25px;
+}
+.home{
+    text-align: left; 
+    margin-left: 20px;
+    
+    
+    
+}
+.pay{
+  display: grid;
+  gap: 20px;
+  grid-template-rows: 20px;
+  font-size: 25px;
+
+  
+  
+}
+.container{
+ background-color: #f6ece3;
+  
+    height: 280px;
+   color: black;
+   
+    padding: 1px;
+ 
+}
+.image2{
+    
+height: 20px;
+     justify-content: space-between;
+     display: grid;
+      grid-gap: 50px;
+    grid-template-columns: 350px 350px 350px 350px;
+    margin: 60px;
+    padding: 1px;
+   
+    
+}
+.desc{
+ 
+
+     justify-content: space-between;
+     display: grid;
+      grid-gap: 30px;
+    grid-template-columns: 200px 530px 200px 550px;
+    margin: 60px;
+    padding: 5px;
+    font-size: 30px;
+
+}
+.proceed button{
+    background-color:  #f6ece3;
+    margin-left: 75%;
+    width: 350px;
+    padding: 20px;
+    font-size: 25px;
+}
+
